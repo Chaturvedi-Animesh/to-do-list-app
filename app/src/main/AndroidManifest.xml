@@ -11,7 +11,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".existing_or_not"></activity>
+        <activity android:name=".empty_list"></activity>
+        <activity android:name=".existing_or_not" />
         <activity
             android:name=".MainActivity"
             android:windowSoftInputMode="stateHidden">
